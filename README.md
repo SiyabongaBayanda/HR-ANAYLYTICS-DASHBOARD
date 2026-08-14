@@ -21,8 +21,8 @@ leave the organization and identify patterns that HR can act on.
 
 ## 🛠️ Tools Used
 
-- Power Query
-- Power BI
+- Power Query | Data cleaning & exploratory analysis |
+- Power BI | Data visualization & dashboard development |
 
 ## 📊 Dashboard
 
