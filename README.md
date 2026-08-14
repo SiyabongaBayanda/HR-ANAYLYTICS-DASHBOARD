@@ -7,7 +7,7 @@ leave the organization and identify patterns that HR can act on.
 
 ## Data Source 
 **Source:** Kaggle  
-**Dataset:** Vrinda Store Sales 
+**Dataset:** HR Analytics Employee Attrition
 **Link:** [Download here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 🎯 Business Questions
@@ -42,7 +42,3 @@ leave the organization and identify patterns that HR can act on.
 - Review compensation for affected employee groups.
 - Develop career-development opportunities.
 - Investigate employee satisfaction and workload factors.
-
-## 🗃️ SQL Analysis
-
-[View SQL Queries](SQL/HR_Analytics_Queries.sql)
