@@ -1,4 +1,4 @@
-# HR-ANAYLYTICS-DASHBOARD
+# 👥 HR-ANAYLYTICS-DASHBOARD
  
 ## 📌 Project Overview
 
@@ -14,13 +14,13 @@ leave the organization and identify patterns that HR can act on.
 - Does salary influence employee attrition?
 - Does employee tenure affect attrition?
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Power Query
 - Power BI
 
-## Dashboard
+## 📊 Dashboard
 
 ![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
