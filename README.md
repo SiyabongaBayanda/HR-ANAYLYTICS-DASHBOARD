@@ -26,6 +26,8 @@ leave the organization and identify patterns that HR can act on.
 
 ## 📊 Dashboard
 
+  The Power BI dashboard contains:
+
 ### 📌 KPI Cards
 
 - Total Employees
@@ -34,6 +36,16 @@ leave the organization and identify patterns that HR can act on.
 - Attrition Rate
 - Average Age
 - Average Experience
+
+### 📊 Visualizations
+
+- Attrition by Department
+- Attrition by Gender 
+- Attrition by Salary slab
+- Attrition trend by experience
+- Attrition by job role & satisfaction
+- Department-wise count
+- Age group distribution 
 
 ![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
