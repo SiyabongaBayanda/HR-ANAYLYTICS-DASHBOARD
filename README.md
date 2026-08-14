@@ -5,6 +5,10 @@
 The purpose is to analyze the factors that leads employees to
 leave the organization and identify patterns that HR can act on.
 
+**Source:** Kaggle  
+**Dataset:** Vrinda Store Sales 
+**Link:** [Download here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 ## 🎯 Business Questions
 
 - What is the overall employee attrition rate?
