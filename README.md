@@ -21,7 +21,7 @@ leave the organization and identify patterns that HR can act on.
 
 ## 🛠️ Tools Used
 ### | Tool | Purpose |
-- |**SQL** | transformation & analysis |
+- | **SQL** | transformation & analysis |
 - | Power Query | Data cleaning, exploratory analysis |
 - | Power BI | Data visualization & dashboard development |
 
