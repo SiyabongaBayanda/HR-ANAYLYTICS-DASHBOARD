@@ -20,9 +20,10 @@ leave the organization and identify patterns that HR can act on.
 - Does employee tenure affect attrition?
 
 ## 🛠️ Tools Used
-
-- Power Query | Data cleaning, transformation  & exploratory analysis |
-- Power BI | Data visualization & dashboard development |
+ | Tool | Purpose |
+-| SQL | transformation & analysis |
+-||Power Query | Data cleaning, exploratory analysis |
+-|Power BI | Data visualization & dashboard development |
 
 ## 📊 Dashboard
 
