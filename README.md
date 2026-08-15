@@ -52,15 +52,15 @@ leave the organization and identify patterns that HR can act on.
 
 
 ## 🔍 Key Insights
-
-- Department with the highest attrition
-- Job role with the highest attrition
-- Age group with the highest attrition
-- Relationship between salary and attrition
+- The overall employee attrition rate is over 16 %
+- Department with the highest attrition is Research & Development 55 %
+- Laboratory Technician & Sales Executive job roles with the highest attrition 50 %
+- 24-35 age group has the highest attrition
+- Employees with salary slab up to 5K have higher attrition
 
 ## 💡 Recommendations
 
-- Improve retention strategies for high-attrition departments.
-- Review compensation for affected employee groups.
-- Develop career-development opportunities.
-- Investigate employee satisfaction and workload factors.
+- Investigate Research & Development department due to high attrition
+- Review workload and overtime requirements
+- Improve career-development opportunities for all departments.
+- Monitor employee satisfaction regularly.
