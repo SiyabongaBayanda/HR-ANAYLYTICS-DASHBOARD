@@ -29,7 +29,7 @@ leave the organization and identify patterns that HR can act on.
 
   The Power BI dashboard contains:
 
-### 📌 KPI Cards
+###  KPI Cards
 
 - Total Employees
 - Active Employees
@@ -38,7 +38,7 @@ leave the organization and identify patterns that HR can act on.
 - Average Age
 - Average Experience
 
-### 📊 Visualizations
+###  Visualizations
 
 - Attrition by Department
 - Attrition by Gender 
