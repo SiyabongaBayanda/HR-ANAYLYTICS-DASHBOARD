@@ -30,29 +30,29 @@ leave the organization and identify patterns that HR can act on.
 
 ### KPI's
 
-- Total Employees
-- Active Employees
-- Attrition Count
-- Attrition Rate
-- Average Age
-- Average Experience
+- Total Employees 1.42K
+- Active Employees 1.87K
+- Attrition Count 229
+- Attrition Rate 16.2%
+- Average Age 36.92
+- Average Experience 7.04
 
 ###  Visualizations
 
-- Attrition by Department
-- Attrition by Gender 
-- Attrition by Salary slab
-- Attrition trend by experience
-- Attrition by job role & satisfaction
-- Department-wise count
-- Age group distribution 
+- Attrition by Department (Donut Chart)
+- Attrition by Gender (Donut Chart)
+- Attrition by Salary slab (Bar Chart)
+- Attrition trend by experience (Area Chart)
+- Attrition by job role & satisfaction (Horizontal Bar Chart)
+- Department-wise count (Funnel)
+- Age group distribution (Column chart)
 
 ![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
 ## 🔍 Key Insights
-- The overall employee attrition rate is over 16 %
-- Department with the highest attrition is Research & Development 55 %
-- Laboratory Technician & Sales Executive job roles with the highest attrition 50 %
+- The overall employee attrition rate is over 16%
+- Department with the highest attrition is Research & Development 55%
+- Laboratory Technician & Sales Executive job roles with the highest attrition 50%
 - 24-35 age group has the highest attrition
 - Employees with salary slab up to 5K have higher attrition
 
