@@ -39,7 +39,7 @@ strategies.
 - **| Tool | Purpose |**
 - |---|---|
 - | Power Query | Data cleaning and transformation |
-- |  Power BI +Power Query | Data modeling, DAX, visualization, and dashboard development |
+- |  Power | Data modeling, DAX, visualization, and dashboard development |
 
 ## Dashboard
 
@@ -61,18 +61,18 @@ The Power BI dashboard contains:
 - Attrition by Department (Donut Chart)
 - Attrition by Gender (Donut Chart)
 - Attrition by Salary slab (Bar Chart)
-- Attrition trend by experience (Area Chart)
+- Attrition trend by Years of experience (Area Chart)
 - Attrition by job role & satisfaction (Horizontal Bar Chart)
 - Department-wise count (Bar Chart)
 - Age group distribution (Column chart)
   
 ## Key Insights
 
-- The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
-- Research & Development contributes the largest share of employee exits approximately 55%, indicating an area for deeper retention analysis.
-- Laboratory Technicians and Sales Executives accounted for a significant share of employee attrition.
-- Employees aged 26–35 represent the largest workforce segment, making this group important for targeted retention strategies.
-- Lower-paid employees in certain roles show significantly higher turnover rates, indicating potential compensation gaps that drive attrtion.
+- The overall employee attrition rate is approximately 16%, highlighting a meaningful employee retention challenge for the organization.
+- Research & Development accounted for approximately 55% of employee exits, making it the largest contributor to overall attrition and a priority area for further investigation.
+- Laboratory Technicians 55% and Sales Executives 39% recorded some of the highest attrition rates among job roles.
+- Employees aged 26–35 show the highest attrition rate, making this group a priority for targeted retention initiatives.
+- Employees in lower salary bands show higher attrition rates, suggesting that compensation competitiveness may be an area worth investigating.
 
 ## Recommendations
 
