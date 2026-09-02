@@ -1,5 +1,6 @@
 #  HR-ANAYLYTICS-DASHBOARD
 ##  Project Overview
+
 This project analyzes employee attrition patterns to identify the
 demographic, compensation, job-related, and organizational factors
 associated with employee turnover.
@@ -68,6 +69,7 @@ strategies.
 ![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
 ## 🔍 Key Insights
+
 - The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
 - Research & Development accounted for approximately 55% of total employee attrition, making it the largest contributor to employee exits.
 - Laboratory Technicians and Sales Executives accounted for a significant share of employee attrition.
@@ -75,7 +77,17 @@ strategies.
 - Employees with salary slab up to 5K have higher attrition
 
 ## 💡 Recommendations
-- Investigate Research & Development department due to high attrition
-- Review workload and overtime requirements
-- Improve career-development opportunities for all departments.
-- Monitor employee satisfaction regularly.
+
+- Prioritize the Research & Development department for deeper
+  retention analysis due to its significant contribution to overall
+  employee attrition.
+- Analyze overtime, workload, and work-life balance indicators to
+  determine whether working conditions are associated with higher
+  employee turnover.
+- Strengthen career-development opportunities, internal mobility,
+  and promotion pathways for employees in high-attrition roles.
+- Review compensation levels for lower-salary employees and assess
+  whether pay competitiveness is associated with higher attrition.
+- Implement regular employee satisfaction surveys and use the results
+  to identify teams or employee segments requiring targeted
+  retention initiatives.
