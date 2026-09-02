@@ -64,7 +64,7 @@ The Power BI dashboard contains:
 - Attrition trend by Years of experience (Area Chart)
 - Attrition by job role & satisfaction (Horizontal Bar Chart)
 - Department-wise count (Bar Chart)
-- Age group distribution (Column chart)
+- Attrition by Age group (Bar Chart)
   
 ## Key Insights
 
@@ -92,13 +92,12 @@ The Power BI dashboard contains:
   
 ## Conclusion
 
-The analysis identified clear differences in employee attrition
+The analysis identified meaningful differences in employee attrition
 across departments, job roles, age groups, salary levels, and
 employee experience.
 
-The findings provide HR with data-driven areas to investigate,
-particularly within high-attrition departments and employee
-segments. Further analysis of workload, compensation, career
-development, and employee satisfaction can support more targeted
-retention strategies.
-  
+The findings highlight specific employee segments that warrant
+further investigation and provide HR with data-driven opportunities
+to improve retention. Further analysis of workload, compensation,
+career development, and employee satisfaction can help HR design
+more targeted retention strategies.
