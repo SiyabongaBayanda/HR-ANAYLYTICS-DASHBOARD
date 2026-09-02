@@ -1,11 +1,9 @@
 #  HR-ANAYLYTICS-DASHBOARD
 ##  Project Overview
-
 This project analyzes employee attrition patterns to identify the
 demographic, compensation, job-related, and organizational factors
 associated with employee turnover.
 ### Objective 
-
 The objective is to help HR identify high-risk employee segments,
 understand key attrition drivers, and develop data-driven retention
 strategies.
