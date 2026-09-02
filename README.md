@@ -1,4 +1,4 @@
-#  HR-ANAYLYTICS-DASHBOARD
+#  HR Employee Attrition Analysis 
 ##  Project Overview
 
 This project analyzes employee attrition patterns to identify the
@@ -27,7 +27,6 @@ strategies.
 ## Skills Demonstrated
 
 - Data Cleaning & Transformation
-- SQL Data Analysis
 - Power Query
 - KPI Development
 - Data Visualization
@@ -39,9 +38,8 @@ strategies.
 
 - **| Tool | Purpose |**
 - |---|---|
-- | SQL | Data analysis, transformation, and business queries |
 - | Power Query | Data cleaning and transformation |
-- |  Power BI + Power Query| Data modeling, DAX, visualization, and dashboard development |
+- |  Power BI +Power Query | Data modeling, DAX, visualization, and dashboard development |
 
 ## Dashboard
 
@@ -91,3 +89,16 @@ strategies.
 - Implement regular employee satisfaction surveys and use the results
   to identify teams or employee segments requiring targeted
   retention initiatives.
+  
+## Conclusion
+
+The analysis identified clear differences in employee attrition
+across departments, job roles, age groups, salary levels, and
+employee experience.
+
+The findings provide HR with data-driven areas to investigate,
+particularly within high-attrition departments and employee
+segments. Further analysis of workload, compensation, career
+development, and employee satisfaction can support more targeted
+retention strategies.
+  
