@@ -43,7 +43,7 @@ strategies.
 
 ## Dashboard
 
-![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
+![HR Analytics Dashboard]()
 
 The Power BI dashboard contains:
 
