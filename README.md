@@ -56,7 +56,7 @@ strategies.
 - Average Age: 36.9
 - Average Experience: 7.0 Years
 
-###  Visualizations
+### Visualizations
 
 - Attrition by Department (Donut Chart)
 - Attrition by Gender (Donut Chart)
@@ -68,7 +68,7 @@ strategies.
 
 ![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
-## 🔍 Key Insights
+## Key Insights
 
 - The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
 - Research & Development accounted for approximately 55% of total employee attrition, making it the largest contributor to employee exits.
@@ -76,7 +76,7 @@ strategies.
 - 24-35 age group has the highest attrition
 - Employees with salary slab up to 5K have higher attrition
 
-## 💡 Recommendations
+## Recommendations
 
 - Prioritize the Research & Development department for deeper
   retention analysis due to its significant contribution to overall
