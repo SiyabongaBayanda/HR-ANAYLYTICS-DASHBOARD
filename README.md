@@ -43,7 +43,9 @@ strategies.
 
 ## Dashboard
 
-  The Power BI dashboard contains:
+![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
+
+The Power BI dashboard contains:
 
 ### KPI
 
@@ -63,8 +65,6 @@ strategies.
 - Attrition by job role & satisfaction (Horizontal Bar Chart)
 - Department-wise count (Bar Chart)
 - Age group distribution (Column chart)
-
-![HR Analytics Dashboard](HR_ANALYTICS_DASHBOARD.png)
 
 ## Key Insights
 
