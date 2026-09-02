@@ -73,8 +73,8 @@ strategies.
 - The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
 - Research & Development accounted for approximately 55% of total employee attrition, making it the largest contributor to employee exits.
 - Laboratory Technicians and Sales Executives accounted for a significant share of employee attrition.
-- 24-35 age group has the highest attrition
-- Employees with salary slab up to 5K have higher attrition
+- 24-35 age group has the highest attrition.
+- Employees with salary slab up to 5K have higher attrition.
 
 ## Recommendations
 
