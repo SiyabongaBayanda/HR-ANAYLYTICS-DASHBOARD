@@ -65,11 +65,11 @@ The Power BI dashboard contains:
 - Attrition by job role & satisfaction (Horizontal Bar Chart)
 - Department-wise count (Bar Chart)
 - Age group distribution (Column chart)
-
+  
 ## Key Insights
 
 - The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
-- Research & Development accounted for approximately 55% of total employee attrition, making it the largest contributor to employee exits.
+- Research & Development contributes the largest share of employee exits approximately 55%, indicating an area for deeper retention analysis.
 - Laboratory Technicians and Sales Executives accounted for a significant share of employee attrition.
 - 24-35 age group has the highest attrition.
 - Employees with salary slab up to 5K have higher attrition.
