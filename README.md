@@ -71,8 +71,8 @@ The Power BI dashboard contains:
 - The overall employee attrition stands at 16%, exceeding the industry benchmark of 10-15%. 
 - Research & Development contributes the largest share of employee exits approximately 55%, indicating an area for deeper retention analysis.
 - Laboratory Technicians and Sales Executives accounted for a significant share of employee attrition.
-- 24-35 age group has the highest attrition.
-- Employees with salary slab up to 5K have higher attrition.
+- Employees aged 26–35 represent the largest workforce segment, making this group important for targeted retention strategies.
+- Lower-paid employees in certain roles show significantly higher turnover rates, indicating potential compensation gaps that drive attrtion.
 
 ## Recommendations
 
