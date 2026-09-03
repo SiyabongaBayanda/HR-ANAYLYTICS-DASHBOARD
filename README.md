@@ -37,7 +37,6 @@ strategies.
 ## Tools & Technologies
 
 - **| Tool | Purpose |**
-- |---|---|
 - | Power Query | Data cleaning and transformation |
 - |  Power | Data modeling, DAX, visualization, and dashboard development |
 
